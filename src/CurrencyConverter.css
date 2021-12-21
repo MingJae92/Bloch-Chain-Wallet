@@ -1,0 +1,43 @@
+
+  form{
+    display: inline-block;
+    background-color: white;
+    height: 40%;
+    /* background: blueviolet; */
+    margin: 10%;
+    padding: 50px;
+    border-radius: 2px;
+    border: 10px solid green;
+    border-radius: 15px;
+ }
+
+ input{
+    margin: 2em;
+ }
+
+ img{
+    padding: 10px;
+ }
+
+ label{
+     padding: 10px;
+ }
+
+ p{
+     padding: 0.5em;
+ }
+
+ h1{
+    font-family: 'Share Tech Mono', monospace;
+    padding-top: 10px;
+ }
+
+a, a:hover, a:focus, a:active {
+   text-decoration: none;
+   color: inherit;
+   padding: 0;
+}
+
+#button{
+   margin: 20px;
+}
