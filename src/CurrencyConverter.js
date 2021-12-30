@@ -62,9 +62,9 @@ import Modal from "./Modal";
                                 </Button>
                                 <Button onClick={()=>{setOpenModal(true)}}  color="primary">
                                     Connect
-                                </Button>
-                                    {modalOpen &&<Modal setOpenModal={setOpenModal}/>}   
+                                </Button>   
                             </DialogActions>
+                                {modalOpen &&<Modal setOpenModal={setOpenModal}/>}
                         </Dialog>
                     </div>
                 </form>     
