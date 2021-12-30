@@ -33,7 +33,7 @@ import Modal from "./Modal";
         
         <div>
            <div className="logo">
-                <h1>Neptune Mutal</h1>
+                <h1>Crypto Wallet</h1>
                 <img src="https://img.icons8.com/ios-glyphs/30/000000/leopard.png"/>
             </div>
                 <form>
